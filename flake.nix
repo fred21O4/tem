@@ -1,5 +1,5 @@
 {
-  description = "eframe devShell";
+  description = "Tem, track elite missions";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
